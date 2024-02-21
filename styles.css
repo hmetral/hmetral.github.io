@@ -22,7 +22,6 @@ text-align: center;
 scroll-behavior: smooth;
 }
 #closeID,
-.mobile-nav,
 .desktop-nav{
   display: none;
 }
